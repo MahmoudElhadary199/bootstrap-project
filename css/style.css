@@ -1,0 +1,13 @@
+ header{
+     background-color: aqua;
+     background-image: url(../images/two.png);
+     background-size: cover;
+     background-position: center center;
+ }
+ .link a {
+     width: 32px;
+     height: 32px;
+     background-color: brown;
+     color: rgb(255, 0, 0);
+     font-size: 20px;
+ }
